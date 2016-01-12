@@ -1,5 +1,5 @@
 module BootstrapColorpickerRails
   module Rails
-    VERSION = "0.3.1"
+    VERSION = "2.3.0.0"
   end
 end

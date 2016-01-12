@@ -8,11 +8,11 @@ Bootstrap is a toolkit from Twitter designed to kickstart development of webapps
 
 http://twitter.github.com/bootstrap/
 
-Bootstrap colorpicker is a plugin for Bootstrap designed by Stefan Petre. It provides a stylish color picker for Bootstrap.
+Bootstrap colorpicker is a plugin for Bootstrap designed by Javier Aguilar (originally by Stefan Petre). It provides a stylish color picker for Bootstrap.
 
-http://www.eyecon.ro/bootstrap-colorpicker/
+https://github.com/mjolnic/bootstrap-colorpicker
 
-bootstrap-colorpicker-rails project integrates colorpicker with Rails 3 assets pipeline.
+bootstrap-colorpicker-rails project integrates colorpicker with Rails 3/4 assets pipeline.
 
 http://github.com/alessani/bootstrap-colorpicker-rails
 
